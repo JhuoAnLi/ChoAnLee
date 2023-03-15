@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm jalee</h1>
-<h3 align="center">A student with impossible dream, AI slave</h3>
+<h3 align="center">I like .....</h3>
 
 - 📫 How to reach me **tommy920125@gmail.com**
 
